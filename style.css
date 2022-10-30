@@ -24,6 +24,10 @@
 .card-section{
     display: flex;
     overflow: scroll;
+    
+}
+::-webkit-scrollbar {
+    display: none;
 }
 .card-1{
     width: 180px;
